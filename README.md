@@ -6,4 +6,4 @@
 
 푼 문제 위치 링크
 > [백준 단계별로 풀어보기](https://www.acmicpc.net/step)<br>
-> [codeup 기본 100제](https://codeup.kr/problemsetsol.php?psid=23)
+> [codeup에서 풀기 시작한 위치](https://codeup.kr/problemsetsol.php?psid=9)
